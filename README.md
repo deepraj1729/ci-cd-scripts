@@ -1,2 +1,2 @@
 # ci-cd-scripts
-CI/CD scripts to be used for build, test, deploy
+CI/CD scripts to be used for build, test, deploy using `github actions`
